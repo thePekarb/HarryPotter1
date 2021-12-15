@@ -165,5 +165,23 @@
   <ItemGroup>
     <None Include="Resources\1611195603_18-p-fon-svitok-iz-staroi-bumagi-192.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Новый проект.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Новый проект %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Новый проект %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Новый проект %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Новый проект %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Новый проект %285%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

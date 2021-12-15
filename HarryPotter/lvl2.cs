@@ -17,14 +17,14 @@ namespace HarryPotter
             InitializeComponent();
         }
 
-        int p_size_r1 = 0;
-        int p_size_r2 = 0;
-        int p_size_r3 = 0;
-        int p_size_r4 = 0;
-        int p_size_l1 = 0;
-        int p_size_l2 = 0;
-        int p_size_l3 = 0;
-        int p_size_l4 = 0;
+        int p_size_r1 = 1;
+        int p_size_r2 = 1;
+        int p_size_r3 = 1;
+        int p_size_r4 = 1;
+        int p_size_l1 = 1;
+        int p_size_l2 = 1;
+        int p_size_l3 = 1;
+        int p_size_l4 = 1;
 
         int m_panel_id;
 
@@ -33,14 +33,14 @@ namespace HarryPotter
         private void pictureBox2_MouseMove(object sender, MouseEventArgs e)
         {
             if (pictureBox2.Image == null) return;
-            m_panel_id = 1;
+            p_size_l1 = 1;
             pictureBox2.DoDragDrop(pictureBox2.Image, DragDropEffects.Copy | DragDropEffects.Move);
 
         }
 
         private void pictureBox1_DragDrop(object sender, DragEventArgs e)
         {
-            p_size_r1 = m_panel_id;
+            p_size_r1 = p_size_l1;
             List<string> dek = new List<string>();
             string deks = (string)e.Data.GetData(DataFormats.Text);
             pictureBox1.Image = (Bitmap)e.Data.GetData(DataFormats.Bitmap);
@@ -63,7 +63,7 @@ namespace HarryPotter
         private void pictureBox3_MouseMove(object sender, MouseEventArgs e)
         {
             if (pictureBox3.Image == null) return;
-            m_panel_id = 1;
+            p_size_l2 = 1;
             pictureBox3.DoDragDrop(pictureBox3.Image, DragDropEffects.Copy | DragDropEffects.Move);
         }
 
@@ -83,7 +83,7 @@ namespace HarryPotter
 
         private void pictureBox4_DragDrop(object sender, DragEventArgs e)
         {
-            p_size_r2 = m_panel_id;
+            p_size_r2 = p_size_l2;
             List<string> dek = new List<string>();
             string deks = (string)e.Data.GetData(DataFormats.Text);
             pictureBox4.Image = (Bitmap)e.Data.GetData(DataFormats.Bitmap);
@@ -121,6 +121,19 @@ namespace HarryPotter
         {
             if (e.Data.GetDataPresent(DataFormats.Bitmap) || e.Data.GetDataPresent(DataFormats.Text))
                 e.Effect = DragDropEffects.Copy;
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void guna2CustomRadioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            if(p_size_r1 == p_size_l1 & p_size_r2 == p_size_l2)
+            {
+                //Application.Exit();
+            }
         }
     }
 }

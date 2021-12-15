@@ -118,59 +118,26 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="1611195603_18-p-fon-svitok-iz-staroi-bumagi-19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1611195603_18-p-fon-svitok-iz-staroi-bumagi-19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1613651616_97-p-fon-dlya-prezentatsii-garri-potter-1071" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1613651616_97-p-fon-dlya-prezentatsii-garri-potter-107.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Новый проект (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Новый проект (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="1613651616_97-p-fon-dlya-prezentatsii-garri-potter-107" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1613651616_97-p-fon-dlya-prezentatsii-garri-potter-107.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="e9bf6f5b912df01554dc2fb5fe98061e" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\e9bf6f5b912df01554dc2fb5fe98061e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="2f6705c88f92e18a88264d2193eb1c6a2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2f6705c88f92e18a88264d2193eb1c6a1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="печать" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\печать.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="e9bf6f5b912df01554dc2fb5fe98061e1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\e9bf6f5b912df01554dc2fb5fe98061e.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Harry-Potter-Potions-Featured" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Harry-Potter-Potions-Featured.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="2f6705c88f92e18a88264d2193eb1c6a1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2f6705c88f92e18a88264d2193eb1c6a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Новый проект" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Новый проект.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ETzNnXqX0AI_1YT" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ETzNnXqX0AI_1YT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="1611195603_18-p-fon-svitok-iz-staroi-bumagi-191" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1611195603_18-p-fon-svitok-iz-staroi-bumagi-191.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Новый проект (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Новый проект (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pEb1p8WpR2E" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pEb1p8WpR2E.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="diagonalley_universalorlando" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\diagonalley_universalorlando.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="кнопка" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\кнопка.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="e9bf6f5b912df01554dc2fb5fe98061e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e9bf6f5b912df01554dc2fb5fe98061e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="4e05891dcbfb5da0a611f99d47112e9b" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\4e05891dcbfb5da0a611f99d47112e9b.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="e9bf6f5b912df01554dc2fb5fe98061e1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e9bf6f5b912df01554dc2fb5fe98061e.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="w1500_48551878" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\w1500_48551878.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="дамблдор" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\дамблдор.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="1613651616_97-p-fon-dlya-prezentatsii-garri-potter-107" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1613651616_97-p-fon-dlya-prezentatsii-garri-potter-107.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="e9bf6f5b912df01554dc2fb5fe98061e (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\e9bf6f5b912df01554dc2fb5fe98061e (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -178,25 +145,61 @@
   <data name="1611195603_18-p-fon-svitok-iz-staroi-bumagi-192" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1611195603_18-p-fon-svitok-iz-staroi-bumagi-192.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="печать" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\печать.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pEb1p8WpR2E" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pEb1p8WpR2E.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2f6705c88f92e18a88264d2193eb1c6a2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2f6705c88f92e18a88264d2193eb1c6a1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4e05891dcbfb5da0a611f99d47112e9b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4e05891dcbfb5da0a611f99d47112e9b.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Harry-Potter-Potions-Featured" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Harry-Potter-Potions-Featured.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="2f6705c88f92e18a88264d2193eb1c6a" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2f6705c88f92e18a88264d2193eb1c6a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="1611195603_18-p-fon-svitok-iz-staroi-bumagi-19" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1611195603_18-p-fon-svitok-iz-staroi-bumagi-19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="1613651616_97-p-fon-dlya-prezentatsii-garri-potter-1071" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1613651616_97-p-fon-dlya-prezentatsii-garri-potter-107.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Новый проект (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Новый проект (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="tyHqluHUScIEveq75aPz3w" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tyHqluHUScIEveq75aPz3w.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="кнопка" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\кнопка.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Новый проект (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Новый проект (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="ETzNnXqX0AI_1YT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ETzNnXqX0AI_1YT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="дамблдор" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\дамблдор.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2f6705c88f92e18a88264d2193eb1c6a1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2f6705c88f92e18a88264d2193eb1c6a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Новый проект (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Новый проект (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w1500_48551878" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w1500_48551878.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1611195603_18-p-fon-svitok-iz-staroi-bumagi-191" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1611195603_18-p-fon-svitok-iz-staroi-bumagi-191.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Новый проект (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Новый проект (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Новый проект" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Новый проект.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Новый проект (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Новый проект (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="печать1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\печать.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

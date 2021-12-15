@@ -82,16 +82,16 @@
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel2.Controls.Add(this.pictureBox8, 0, 4);
-            this.tableLayoutPanel2.Controls.Add(this.pictureBox7, 1, 3);
             this.tableLayoutPanel2.Controls.Add(this.pictureBox6, 0, 3);
-            this.tableLayoutPanel2.Controls.Add(this.pictureBox5, 1, 2);
-            this.tableLayoutPanel2.Controls.Add(this.pictureBox3, 1, 1);
             this.tableLayoutPanel2.Controls.Add(this.pictureBox2, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.label2, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.label3, 0, 5);
             this.tableLayoutPanel2.Controls.Add(this.guna2CustomRadioButton1, 1, 5);
             this.tableLayoutPanel2.Controls.Add(this.pictureBox4, 0, 2);
             this.tableLayoutPanel2.Controls.Add(this.pictureBox1, 0, 1);
+            this.tableLayoutPanel2.Controls.Add(this.pictureBox3, 1, 2);
+            this.tableLayoutPanel2.Controls.Add(this.pictureBox5, 1, 3);
+            this.tableLayoutPanel2.Controls.Add(this.pictureBox7, 1, 1);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 115);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
@@ -122,7 +122,7 @@
             // 
             this.pictureBox7.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox7.Image = global::HarryPotter.Properties.Resources.Новый_проект__4_;
-            this.pictureBox7.Location = new System.Drawing.Point(631, 286);
+            this.pictureBox7.Location = new System.Drawing.Point(631, 108);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(240, 50);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -147,7 +147,7 @@
             // 
             this.pictureBox5.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox5.Image = global::HarryPotter.Properties.Resources.Новый_проект__3_;
-            this.pictureBox5.Location = new System.Drawing.Point(631, 197);
+            this.pictureBox5.Location = new System.Drawing.Point(631, 286);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(240, 50);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -159,7 +159,7 @@
             // 
             this.pictureBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox3.Image = global::HarryPotter.Properties.Resources.Новый_проект__2_;
-            this.pictureBox3.Location = new System.Drawing.Point(631, 108);
+            this.pictureBox3.Location = new System.Drawing.Point(631, 197);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(240, 50);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -205,7 +205,7 @@
             // 
             this.guna2CustomRadioButton1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.guna2CustomRadioButton1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2CustomRadioButton1.BackgroundImage = global::HarryPotter.Properties.Resources.кнопка;
+            this.guna2CustomRadioButton1.BackgroundImage = global::HarryPotter.Properties.Resources.печать1;
             this.guna2CustomRadioButton1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.guna2CustomRadioButton1.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
             this.guna2CustomRadioButton1.CheckedState.BorderColor = System.Drawing.Color.Transparent;
@@ -225,6 +225,7 @@
             this.guna2CustomRadioButton1.UncheckedState.FillColor = System.Drawing.Color.Transparent;
             this.guna2CustomRadioButton1.UncheckedState.InnerColor = System.Drawing.Color.Transparent;
             this.guna2CustomRadioButton1.UncheckedState.Parent = this.guna2CustomRadioButton1;
+            this.guna2CustomRadioButton1.CheckedChanged += new System.EventHandler(this.guna2CustomRadioButton1_CheckedChanged);
             // 
             // pictureBox4
             // 
@@ -275,6 +276,7 @@
             this.label4.Size = new System.Drawing.Size(96, 27);
             this.label4.TabIndex = 2;
             this.label4.Text = "EXIT";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // lvl2
             // 
@@ -283,7 +285,9 @@
             this.ClientSize = new System.Drawing.Size(1008, 729);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "lvl2";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "lvl2";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.lvl2_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();

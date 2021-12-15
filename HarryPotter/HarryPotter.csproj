@@ -183,5 +183,8 @@
   <ItemGroup>
     <None Include="Resources\Новый проект %285%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\печать.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

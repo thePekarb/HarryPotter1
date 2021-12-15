@@ -55,6 +55,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="lvl3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lvl3.Designer.cs">
+      <DependentUpon>lvl3.cs</DependentUpon>
+    </Compile>
     <Compile Include="lvl1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +89,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="lvl2.resx">
       <DependentUpon>lvl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lvl3.resx">
+      <DependentUpon>lvl3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="preview.resx">
       <DependentUpon>preview.cs</DependentUpon>

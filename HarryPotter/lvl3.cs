@@ -125,5 +125,19 @@ namespace HarryPotter
         {
             guna2TextBox1.Clear();
         }
+
+        private void guna2Button18_Click(object sender, EventArgs e)
+        {
+            guna2TextBox1.Text += " ";
+            guna2TextBox1.Visible = true;
+        }
+
+        private void guna2CustomRadioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            if(guna2TextBox1.Text == "ДРАКО МАЛФОЙ")
+            {
+                Application.Exit();
+            }
+        }
     }
 }

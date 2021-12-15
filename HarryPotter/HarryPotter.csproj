@@ -73,6 +73,12 @@
     <Compile Include="lvl2.Designer.cs">
       <DependentUpon>lvl2.cs</DependentUpon>
     </Compile>
+    <Compile Include="lvl4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lvl4.Designer.cs">
+      <DependentUpon>lvl4.cs</DependentUpon>
+    </Compile>
     <Compile Include="preview.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="lvl3.resx">
       <DependentUpon>lvl3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lvl4.resx">
+      <DependentUpon>lvl4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="preview.resx">
       <DependentUpon>preview.cs</DependentUpon>
@@ -194,6 +203,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\печать.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diagram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diagram %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diagram %283%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diagram %283%29 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diagram %283%29 %283%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

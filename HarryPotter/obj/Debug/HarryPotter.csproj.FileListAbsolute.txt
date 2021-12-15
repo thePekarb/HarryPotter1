@@ -27,3 +27,4 @@ C:\Users\vtk\source\repos\HarryPotter\HarryPotter\obj\Debug\HarryPotter.preview.
 C:\Users\vtk\source\repos\HarryPotter\HarryPotter\obj\Debug\HarryPotter.lvl1.resources
 C:\Users\vtk\source\repos\HarryPotter\HarryPotter\obj\Debug\HarryPotter.lvl2.resources
 C:\Users\vtk\source\repos\HarryPotter\HarryPotter\obj\Debug\HarryPotter.lvl3.resources
+C:\Users\vtk\source\repos\HarryPotter\HarryPotter\obj\Debug\HarryPotter.lvl4.resources

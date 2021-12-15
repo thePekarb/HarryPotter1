@@ -23,7 +23,7 @@ namespace HarryPotter
         public static bool green = false;
         public static bool blue = false;
         public static bool red = false;
-       
+
 
         private void button8_Click(object sender, EventArgs e)
         {
@@ -93,23 +93,23 @@ namespace HarryPotter
         private void button4_Click(object sender, EventArgs e)
         {
             flag = true;
-            
+
 
             //button5.BackColor = Color.Yellow;
             //button6.BackColor = Color.Yellow;
-          
+
 
 
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-           if(flag == true)
+            if (flag == true)
             {
-                flag=false;
+                flag = false;
 
                 button5.BackColor = Color.Yellow;
-                
+
             }
             if (green == true)
             {
@@ -320,7 +320,10 @@ namespace HarryPotter
 
         private void guna2CustomRadioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            
+            //if (button8.BackColor = Color.Yellow && button12.BackColor = Color.Yellow)
+            //{
+
+            //}
            
 
            

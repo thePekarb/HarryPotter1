@@ -16,5 +16,32 @@ namespace HarryPotter
         {
             InitializeComponent();
         }
+        
+        private void label1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string otvet = guna2TextBox1.Text;
+            string vvod = "4";
+
+
+            if (vvod == otvet)
+            {
+                Application.Exit();
+            }
+            else
+            {
+                MessageBox.Show("Неправильное число");
+
+
+                guna2TextBox1.Clear();
+                
+
+            }
+
+        }
     }
 }

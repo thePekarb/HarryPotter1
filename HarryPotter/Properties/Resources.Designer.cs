@@ -213,6 +213,26 @@ namespace HarryPotter.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap diagram__4___1_ {
+            get {
+                object obj = ResourceManager.GetObject("diagram (4) (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap diagram__4___2_ {
+            get {
+                object obj = ResourceManager.GetObject("diagram (4) (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap e9bf6f5b912df01554dc2fb5fe98061e {
             get {
                 object obj = ResourceManager.GetObject("e9bf6f5b912df01554dc2fb5fe98061e", resourceCulture);

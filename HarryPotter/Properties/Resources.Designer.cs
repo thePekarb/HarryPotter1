@@ -153,6 +153,16 @@ namespace HarryPotter.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _7BqY {
+            get {
+                object obj = ResourceManager.GetObject("7BqY", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap diagonalley_universalorlando {
             get {
                 object obj = ResourceManager.GetObject("diagonalley_universalorlando", resourceCulture);
@@ -266,6 +276,16 @@ namespace HarryPotter.Properties {
         internal static System.Drawing.Bitmap ETzNnXqX0AI_1YT {
             get {
                 object obj = ResourceManager.GetObject("ETzNnXqX0AI_1YT", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Fky9 {
+            get {
+                object obj = ResourceManager.GetObject("Fky9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -393,6 +413,16 @@ namespace HarryPotter.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap добавить {
+            get {
+                object obj = ResourceManager.GetObject("добавить", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap кнопка {
             get {
                 object obj = ResourceManager.GetObject("кнопка", resourceCulture);
@@ -483,6 +513,26 @@ namespace HarryPotter.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Новый_проект__7_ {
+            get {
+                object obj = ResourceManager.GetObject("Новый проект (7)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap перемешать {
+            get {
+                object obj = ResourceManager.GetObject("перемешать", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap печать {
             get {
                 object obj = ResourceManager.GetObject("печать", resourceCulture);
@@ -496,6 +546,16 @@ namespace HarryPotter.Properties {
         internal static System.Drawing.Bitmap печать1 {
             get {
                 object obj = ResourceManager.GetObject("печать1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap попробывать_кнопка {
+            get {
+                object obj = ResourceManager.GetObject("попробывать кнопка", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

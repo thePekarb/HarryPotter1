@@ -134,7 +134,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox2.Image = global::HarryPotter.Properties.Resources.Новый_проект__5_;
+            this.pictureBox2.Image = global::HarryPotter.Properties.Resources.Новый_проект__7_;
             this.pictureBox2.Location = new System.Drawing.Point(631, 19);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(240, 50);
@@ -220,7 +220,7 @@
             // pictureBox3
             // 
             this.pictureBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox3.Image = global::HarryPotter.Properties.Resources.Новый_проект__2_;
+            this.pictureBox3.Image = global::HarryPotter.Properties.Resources.попробывать_кнопка;
             this.pictureBox3.Location = new System.Drawing.Point(631, 197);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(240, 50);
@@ -232,7 +232,7 @@
             // pictureBox5
             // 
             this.pictureBox5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox5.Image = global::HarryPotter.Properties.Resources.Новый_проект__3_;
+            this.pictureBox5.Image = global::HarryPotter.Properties.Resources.добавить;
             this.pictureBox5.Location = new System.Drawing.Point(631, 286);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(240, 50);
@@ -244,7 +244,7 @@
             // pictureBox7
             // 
             this.pictureBox7.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox7.Image = global::HarryPotter.Properties.Resources.Новый_проект__4_;
+            this.pictureBox7.Image = global::HarryPotter.Properties.Resources.перемешать;
             this.pictureBox7.Location = new System.Drawing.Point(631, 108);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(240, 50);

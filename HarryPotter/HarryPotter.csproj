@@ -85,6 +85,12 @@
     <Compile Include="lvl5.Designer.cs">
       <DependentUpon>lvl5.cs</DependentUpon>
     </Compile>
+    <Compile Include="lvl6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lvl6.Designer.cs">
+      <DependentUpon>lvl6.cs</DependentUpon>
+    </Compile>
     <Compile Include="preview.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -110,6 +116,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="lvl5.resx">
       <DependentUpon>lvl5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lvl6.resx">
+      <DependentUpon>lvl6.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="preview.resx">
       <DependentUpon>preview.cs</DependentUpon>
@@ -275,6 +284,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\pngwing.com %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Новый проект %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\попробывать кнопка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\добавить.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\перемешать.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7BqY.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fky9.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

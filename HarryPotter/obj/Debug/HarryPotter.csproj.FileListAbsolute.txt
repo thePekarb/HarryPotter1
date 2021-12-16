@@ -14,7 +14,6 @@ C:\Users\vtk\source\repos\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe.conf
 C:\Users\vtk\source\repos\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe
 C:\Users\vtk\source\repos\HarryPotter\HarryPotter\bin\Debug\HarryPotter.pdb
 C:\Users\vtk\source\repos\HarryPotter\HarryPotter\bin\Debug\Guna.UI2.dll
-C:\Users\vtk\source\repos\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.AssemblyReference.cache
 C:\Users\vtk\source\repos\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.SuggestedBindingRedirects.cache
 C:\Users\vtk\source\repos\HarryPotter\HarryPotter\obj\Debug\HarryPotter.Form1.resources
 C:\Users\vtk\source\repos\HarryPotter\HarryPotter\obj\Debug\HarryPotter.Properties.Resources.resources

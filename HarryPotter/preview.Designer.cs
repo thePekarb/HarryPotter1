@@ -100,7 +100,7 @@ namespace HarryPotter
             // 
             this.guna2CustomRadioButton1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.guna2CustomRadioButton1.BackColor = System.Drawing.Color.Linen;
-            this.guna2CustomRadioButton1.BackgroundImage = global::HarryPotter.Properties.Resources.печать;
+            this.guna2CustomRadioButton1.BackgroundImage = global::HarryPotter.Properties.Resources.pngwing_com__6_;
             this.guna2CustomRadioButton1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.guna2CustomRadioButton1.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
             this.guna2CustomRadioButton1.CheckedState.BorderColor = System.Drawing.Color.Transparent;

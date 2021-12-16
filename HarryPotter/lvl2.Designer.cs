@@ -57,7 +57,7 @@
             // 
             // tableLayoutPanel1
             // 
-            this.tableLayoutPanel1.BackgroundImage = global::HarryPotter.Properties.Resources._1611195603_18_p_fon_svitok_iz_staroi_bumagi_192;
+            this.tableLayoutPanel1.BackgroundImage = global::HarryPotter.Properties.Resources.слайд_фон;
             this.tableLayoutPanel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.tableLayoutPanel1.ColumnCount = 1;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
@@ -169,7 +169,7 @@
             // 
             this.guna2CustomRadioButton1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.guna2CustomRadioButton1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2CustomRadioButton1.BackgroundImage = global::HarryPotter.Properties.Resources.печать1;
+            this.guna2CustomRadioButton1.BackgroundImage = global::HarryPotter.Properties.Resources.pngwing_com__6_;
             this.guna2CustomRadioButton1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.guna2CustomRadioButton1.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
             this.guna2CustomRadioButton1.CheckedState.BorderColor = System.Drawing.Color.Transparent;

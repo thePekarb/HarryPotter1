@@ -19,7 +19,7 @@ namespace HarryPotter
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            pictureBox1.BackColor = Color.Transparent;
+            pictureBox1.BackColor = Color.Red;
         }
     }
 }

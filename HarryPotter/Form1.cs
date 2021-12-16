@@ -33,8 +33,8 @@ namespace HarryPotter
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
-            lvl1 lvl1   = new lvl1();
-            lvl1.Show();
+            preview pr   = new preview();
+            pr.Show();
             this.Hide();
         }
     }

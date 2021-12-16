@@ -81,7 +81,7 @@
             // 
             // tableLayoutPanel1
             // 
-            this.tableLayoutPanel1.BackgroundImage = global::HarryPotter.Properties.Resources._1611195603_18_p_fon_svitok_iz_staroi_bumagi_192;
+            this.tableLayoutPanel1.BackgroundImage = global::HarryPotter.Properties.Resources.слайд_фон;
             this.tableLayoutPanel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.tableLayoutPanel1.ColumnCount = 1;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
@@ -113,6 +113,7 @@
             this.label1.Size = new System.Drawing.Size(96, 43);
             this.label1.TabIndex = 0;
             this.label1.Text = "EXIT";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -694,7 +695,7 @@
             // 
             // guna2CustomRadioButton1
             // 
-            this.guna2CustomRadioButton1.BackgroundImage = global::HarryPotter.Properties.Resources.печать1;
+            this.guna2CustomRadioButton1.BackgroundImage = global::HarryPotter.Properties.Resources.pngwing_com__6_;
             this.guna2CustomRadioButton1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.guna2CustomRadioButton1.CheckedState.BorderColor = System.Drawing.Color.Transparent;
             this.guna2CustomRadioButton1.CheckedState.BorderThickness = 0;
@@ -714,6 +715,7 @@
             this.guna2CustomRadioButton1.UncheckedState.InnerColor = System.Drawing.Color.Transparent;
             this.guna2CustomRadioButton1.UncheckedState.Parent = this.guna2CustomRadioButton1;
             this.guna2CustomRadioButton1.CheckedChanged += new System.EventHandler(this.guna2CustomRadioButton1_CheckedChanged);
+            this.guna2CustomRadioButton1.Click += new System.EventHandler(this.guna2CustomRadioButton1_Click);
             // 
             // guna2TextBox1
             // 

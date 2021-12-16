@@ -141,5 +141,20 @@ namespace HarryPotter
                 this.Hide();
             }
         }
+
+        private void guna2CustomRadioButton1_Click(object sender, EventArgs e)
+        {
+            if (guna2TextBox1.Text == "ДРАКО МАЛФОЙ")
+            {
+                lvl4 lvl4 = new lvl4();
+                lvl4.Show();
+                this.Hide();
+            }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

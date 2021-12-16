@@ -375,7 +375,7 @@
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 34.37186F));
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 36.72986F));
             this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 28.90995F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 429F));
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 431F));
             this.tableLayoutPanel4.Controls.Add(this.guna2CustomRadioButton1, 1, 1);
             this.tableLayoutPanel4.Controls.Add(this.label3, 1, 0);
             this.tableLayoutPanel4.Controls.Add(this.tableLayoutPanel5, 2, 1);
@@ -400,7 +400,7 @@
             this.guna2CustomRadioButton1.CheckedState.Parent = this.guna2CustomRadioButton1;
             this.guna2CustomRadioButton1.Font = new System.Drawing.Font("Monotype Corsiva", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.guna2CustomRadioButton1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.guna2CustomRadioButton1.Location = new System.Drawing.Point(250, 71);
+            this.guna2CustomRadioButton1.Location = new System.Drawing.Point(249, 71);
             this.guna2CustomRadioButton1.Name = "guna2CustomRadioButton1";
             this.guna2CustomRadioButton1.ShadowDecoration.Parent = this.guna2CustomRadioButton1;
             this.guna2CustomRadioButton1.Size = new System.Drawing.Size(96, 62);
@@ -412,6 +412,7 @@
             this.guna2CustomRadioButton1.UncheckedState.InnerColor = System.Drawing.Color.IndianRed;
             this.guna2CustomRadioButton1.UncheckedState.Parent = this.guna2CustomRadioButton1;
             this.guna2CustomRadioButton1.CheckedChanged += new System.EventHandler(this.guna2CustomRadioButton1_CheckedChanged);
+            this.guna2CustomRadioButton1.Click += new System.EventHandler(this.guna2CustomRadioButton1_Click);
             // 
             // label3
             // 
@@ -432,7 +433,7 @@
             this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 20F));
             this.tableLayoutPanel5.Controls.Add(this.label4, 0, 0);
             this.tableLayoutPanel5.Controls.Add(this.label5, 0, 1);
-            this.tableLayoutPanel5.Location = new System.Drawing.Point(405, 71);
+            this.tableLayoutPanel5.Location = new System.Drawing.Point(404, 71);
             this.tableLayoutPanel5.Name = "tableLayoutPanel5";
             this.tableLayoutPanel5.RowCount = 2;
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));

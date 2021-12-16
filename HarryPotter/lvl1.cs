@@ -328,5 +328,24 @@ namespace HarryPotter
 
            
         }
+
+        private void guna2CustomRadioButton1_Click(object sender, EventArgs e)
+        {
+            if (button8.BackColor == Color.Yellow &&
+                button12.BackColor == Color.Yellow &&
+                button6.BackColor == Color.SeaGreen &&
+                button15.BackColor == Color.SeaGreen &&
+                button5.BackColor == Color.SkyBlue &&
+                button9.BackColor == Color.SkyBlue &&
+                button14.BackColor == Color.IndianRed &&
+                button11.BackColor == Color.IndianRed 
+                )
+            {
+                lvl2 lvl2 = new lvl2();
+                lvl2.Show();
+                this.Hide();
+            }
+
+        }
     }
 }

@@ -136,7 +136,9 @@ namespace HarryPotter
         {
             if(guna2TextBox1.Text == "ДРАКО МАЛФОЙ")
             {
-                Application.Exit();
+                lvl4 lvl4 = new lvl4();
+               lvl4.Show();
+                this.Hide();
             }
         }
     }

@@ -341,11 +341,31 @@ namespace HarryPotter
                 button11.BackColor == Color.IndianRed 
                 )
             {
+                label4.Visible = true;
+                //lvl2 lvl2 = new lvl2();
+                //lvl2.Show();
+                //this.Hide();
+            }
+            else
+            {
+                label5.Visible = true;
+            }
+
+        }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            if(label4.Visible = true)
+            {
                 lvl2 lvl2 = new lvl2();
                 lvl2.Show();
                 this.Hide();
             }
-
+            else
+            {
+                MessageBox.Show("Задание сделано не правильно");
+            }
+            
         }
     }
 }

@@ -234,5 +234,23 @@
   <ItemGroup>
     <None Include="Resources\diagram %284%29 %282%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing.com %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\фон.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\фон.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\фон %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Новый проект %286%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

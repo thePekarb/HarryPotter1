@@ -23,25 +23,19 @@ namespace HarryPotter
         private void Form1_Load(object sender, EventArgs e)
         {
             ToolTip t = new ToolTip();
-            t.SetToolTip(guna2CustomRadioButton1, "Вперёд");
-        }
-
-        private void guna2CustomRadioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2CustomRadioButton1_Click(object sender, EventArgs e)
-        {
-      
-            preview pr = new preview();
-            pr.Show();
-            this.Hide();
+            t.SetToolTip(guna2Button2, "Вперёд");
         }
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
             Application.Exit(); 
+        }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            lvl1 lvl1   = new lvl1();
+            lvl1.Show();
+            this.Hide();
         }
     }
 }

@@ -132,6 +132,7 @@ namespace HarryPotter
         {
             if(p_size_r1 == p_size_l1 & p_size_r2 == p_size_l2)
             {
+                
                lvl3 lvl3    = new lvl3();   
                 lvl3.Show();
                 this.Hide();

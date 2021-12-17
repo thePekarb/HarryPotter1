@@ -18,7 +18,7 @@ namespace HarryPotter
         }
 
 
-
+        public static int score = 0;
         public static bool flag = false;
         public static bool green = false;
         public static bool blue = false;
@@ -342,9 +342,7 @@ namespace HarryPotter
                 )
             {
                 label4.Visible = true;
-                //lvl2 lvl2 = new lvl2();
-                //lvl2.Show();
-                //this.Hide();
+                score ++ ;
             }
             else
             {

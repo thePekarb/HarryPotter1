@@ -169,14 +169,17 @@
   <data name="фон1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\фон.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="2f6705c88f92e18a88264d2193eb1c6a2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2f6705c88f92e18a88264d2193eb1c6a1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pEb1p8WpR2E" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pEb1p8WpR2E.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1613651616_97-p-fon-dlya-prezentatsii-garri-potter-107" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1613651616_97-p-fon-dlya-prezentatsii-garri-potter-107.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="2f6705c88f92e18a88264d2193eb1c6a2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2f6705c88f92e18a88264d2193eb1c6a1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="7BqY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7BqY.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4e05891dcbfb5da0a611f99d47112e9b" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4e05891dcbfb5da0a611f99d47112e9b.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -187,8 +190,8 @@
   <data name="Harry-Potter-Potions-Featured" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Harry-Potter-Potions-Featured.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="7BqY" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\7BqY.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="фонконец" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\фонконец.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="2f6705c88f92e18a88264d2193eb1c6a" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\2f6705c88f92e18a88264d2193eb1c6a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -210,6 +213,9 @@
   </data>
   <data name="diagram" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\diagram.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fky9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fky9.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1611195603_18-p-fon-svitok-iz-staroi-bumagi-191" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1611195603_18-p-fon-svitok-iz-staroi-bumagi-191.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -280,7 +286,10 @@
   <data name="Новый проект (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Новый проект (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Fky9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Fky9.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="NHMg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NHMg.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6J4W" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6J4W.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -16,7 +16,7 @@ namespace HarryPotter
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new lvl6());
+            Application.Run(new Form1());
         }
     }
 }

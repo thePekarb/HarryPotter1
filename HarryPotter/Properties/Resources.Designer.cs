@@ -153,6 +153,16 @@ namespace HarryPotter.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _6J4W {
+            get {
+                object obj = ResourceManager.GetObject("6J4W", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _7BqY {
             get {
                 object obj = ResourceManager.GetObject("7BqY", resourceCulture);
@@ -296,6 +306,16 @@ namespace HarryPotter.Properties {
         internal static System.Drawing.Bitmap Harry_Potter_Potions_Featured {
             get {
                 object obj = ResourceManager.GetObject("Harry-Potter-Potions-Featured", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap NHMg {
+            get {
+                object obj = ResourceManager.GetObject("NHMg", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -606,6 +626,16 @@ namespace HarryPotter.Properties {
         internal static System.Drawing.Bitmap фон2 {
             get {
                 object obj = ResourceManager.GetObject("фон2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap фонконец {
+            get {
+                object obj = ResourceManager.GetObject("фонконец", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

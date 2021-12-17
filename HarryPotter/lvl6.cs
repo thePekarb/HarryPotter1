@@ -116,5 +116,10 @@ namespace HarryPotter
             ver.number(sender, e);
             guna2TextBox10.MaxLength = 10;
         }
+
+        private void label14_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

@@ -21,7 +21,7 @@ namespace HarryPotter
         private void guna2Button1_Click(object sender, EventArgs e)
         {
             string otvet = guna2TextBox1.Text.ToLower();
-            string vvod = "провод";
+            string vvod = "триггер";
             string otvet1 = guna2TextBox2.Text.ToLower();
             string vvod1 = "порт";
             string otvet2 = guna2TextBox3.Text.ToLower();
@@ -44,12 +44,12 @@ namespace HarryPotter
 
             if (vvod == otvet && vvod1 == otvet1 && vvod2 == otvet2 && vvod3 == otvet3 && vvod4 == otvet4 && vvod5 == otvet5 && vvod6 == otvet6 && vvod7 == otvet7 && vvod8 == otvet8 && vvod9 == otvet9  )
             {
-                Application.Exit(); 
+                label12.Visible = true; 
             }
             else
             {
-                MessageBox.Show("задание выполнено не правильно");
-
+                
+                label13.Visible = true;
 
                 
 
@@ -60,7 +60,7 @@ namespace HarryPotter
         private void guna2TextBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
             ver.number(sender, e);
-            guna2TextBox1.MaxLength = 6;
+            guna2TextBox1.MaxLength = 7;
         }
 
         private void guna2TextBox2_KeyPress(object sender, KeyPressEventArgs e)

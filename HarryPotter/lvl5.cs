@@ -79,7 +79,9 @@ namespace HarryPotter
         {
             if(label3.Visible = true)
             {
-                Application.Exit();
+                lvl6 lvl6 = new lvl6();
+                lvl6.Show();
+                this.Hide();
             }
         }
     }

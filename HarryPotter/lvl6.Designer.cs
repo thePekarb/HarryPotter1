@@ -147,6 +147,7 @@
             this.guna2TextBox10.ShadowDecoration.Parent = this.guna2TextBox10;
             this.guna2TextBox10.Size = new System.Drawing.Size(195, 36);
             this.guna2TextBox10.TabIndex = 19;
+            this.guna2TextBox10.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.guna2TextBox10_KeyPress);
             // 
             // guna2TextBox9
             // 
@@ -171,6 +172,7 @@
             this.guna2TextBox9.ShadowDecoration.Parent = this.guna2TextBox9;
             this.guna2TextBox9.Size = new System.Drawing.Size(195, 36);
             this.guna2TextBox9.TabIndex = 18;
+            this.guna2TextBox9.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.guna2TextBox9_KeyPress);
             // 
             // guna2TextBox8
             // 
@@ -195,6 +197,7 @@
             this.guna2TextBox8.ShadowDecoration.Parent = this.guna2TextBox8;
             this.guna2TextBox8.Size = new System.Drawing.Size(195, 36);
             this.guna2TextBox8.TabIndex = 17;
+            this.guna2TextBox8.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.guna2TextBox8_KeyPress);
             // 
             // guna2TextBox7
             // 
@@ -219,6 +222,7 @@
             this.guna2TextBox7.ShadowDecoration.Parent = this.guna2TextBox7;
             this.guna2TextBox7.Size = new System.Drawing.Size(195, 36);
             this.guna2TextBox7.TabIndex = 16;
+            this.guna2TextBox7.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.guna2TextBox7_KeyPress);
             // 
             // guna2TextBox6
             // 
@@ -243,6 +247,7 @@
             this.guna2TextBox6.ShadowDecoration.Parent = this.guna2TextBox6;
             this.guna2TextBox6.Size = new System.Drawing.Size(195, 36);
             this.guna2TextBox6.TabIndex = 15;
+            this.guna2TextBox6.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.guna2TextBox6_KeyPress);
             // 
             // guna2TextBox5
             // 
@@ -267,6 +272,7 @@
             this.guna2TextBox5.ShadowDecoration.Parent = this.guna2TextBox5;
             this.guna2TextBox5.Size = new System.Drawing.Size(195, 36);
             this.guna2TextBox5.TabIndex = 14;
+            this.guna2TextBox5.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.guna2TextBox5_KeyPress);
             // 
             // guna2TextBox4
             // 
@@ -291,6 +297,7 @@
             this.guna2TextBox4.ShadowDecoration.Parent = this.guna2TextBox4;
             this.guna2TextBox4.Size = new System.Drawing.Size(195, 36);
             this.guna2TextBox4.TabIndex = 13;
+            this.guna2TextBox4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.guna2TextBox4_KeyPress);
             // 
             // guna2TextBox3
             // 
@@ -315,6 +322,7 @@
             this.guna2TextBox3.ShadowDecoration.Parent = this.guna2TextBox3;
             this.guna2TextBox3.Size = new System.Drawing.Size(195, 36);
             this.guna2TextBox3.TabIndex = 12;
+            this.guna2TextBox3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.guna2TextBox3_KeyPress);
             // 
             // guna2TextBox2
             // 
@@ -339,6 +347,7 @@
             this.guna2TextBox2.ShadowDecoration.Parent = this.guna2TextBox2;
             this.guna2TextBox2.Size = new System.Drawing.Size(195, 36);
             this.guna2TextBox2.TabIndex = 11;
+            this.guna2TextBox2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.guna2TextBox2_KeyPress);
             // 
             // label2
             // 
@@ -473,6 +482,7 @@
             this.guna2TextBox1.ShadowDecoration.Parent = this.guna2TextBox1;
             this.guna2TextBox1.Size = new System.Drawing.Size(195, 36);
             this.guna2TextBox1.TabIndex = 10;
+            this.guna2TextBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.guna2TextBox1_KeyPress);
             // 
             // label1
             // 

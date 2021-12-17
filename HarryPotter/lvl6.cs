@@ -16,6 +16,7 @@ namespace HarryPotter
         {
             InitializeComponent();
         }
+        verify ver = new verify();
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
@@ -54,6 +55,66 @@ namespace HarryPotter
 
 
             }
+        }
+
+        private void guna2TextBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ver.number(sender, e);
+            guna2TextBox1.MaxLength = 6;
+        }
+
+        private void guna2TextBox2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ver.number(sender, e);
+            guna2TextBox2.MaxLength = 4;
+        }
+
+        private void guna2TextBox3_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ver.number(sender, e);
+            guna2TextBox3.MaxLength = 7;
+        }
+
+        private void guna2TextBox4_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ver.number(sender, e);
+            guna2TextBox4.MaxLength = 7;
+        }
+
+        private void guna2TextBox5_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ver.number(sender, e);
+            guna2TextBox5.MaxLength = 8;
+        }
+
+        private void guna2TextBox6_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ver.number(sender, e);
+            guna2TextBox6.MaxLength = 9;
+        }
+
+        private void guna2TextBox7_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ver.number(sender, e);
+            guna2TextBox7.MaxLength = 8;
+        }
+
+        private void guna2TextBox8_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ver.number(sender, e);
+            guna2TextBox8.MaxLength = 6;
+        }
+
+        private void guna2TextBox9_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ver.number(sender, e);
+            guna2TextBox9.MaxLength = 7;
+        }
+
+        private void guna2TextBox10_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            ver.number(sender, e);
+            guna2TextBox10.MaxLength = 10;
         }
     }
 }

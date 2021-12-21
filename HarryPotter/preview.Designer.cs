@@ -54,7 +54,7 @@ namespace HarryPotter
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 6.584362F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 64.19753F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 28.94376F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(826, 486);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1024, 768);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // tableLayoutPanel2
@@ -66,13 +66,13 @@ namespace HarryPotter
             this.tableLayoutPanel2.Controls.Add(this.listBox1, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.guna2CustomRadioButton1, 1, 0);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(2, 346);
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(2, 546);
             this.tableLayoutPanel2.Margin = new System.Windows.Forms.Padding(2);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 1;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 138F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(822, 138);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(1020, 220);
             this.tableLayoutPanel2.TabIndex = 0;
             // 
             // listBox1
@@ -93,7 +93,7 @@ namespace HarryPotter
             this.listBox1.Location = new System.Drawing.Point(2, 2);
             this.listBox1.Margin = new System.Windows.Forms.Padding(2);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(686, 134);
+            this.listBox1.Size = new System.Drawing.Size(852, 216);
             this.listBox1.TabIndex = 0;
             // 
             // guna2CustomRadioButton1
@@ -108,7 +108,7 @@ namespace HarryPotter
             this.guna2CustomRadioButton1.CheckedState.FillColor = System.Drawing.Color.Transparent;
             this.guna2CustomRadioButton1.CheckedState.InnerColor = System.Drawing.Color.White;
             this.guna2CustomRadioButton1.CheckedState.Parent = this.guna2CustomRadioButton1;
-            this.guna2CustomRadioButton1.Location = new System.Drawing.Point(692, 2);
+            this.guna2CustomRadioButton1.Location = new System.Drawing.Point(874, 43);
             this.guna2CustomRadioButton1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2CustomRadioButton1.Name = "guna2CustomRadioButton1";
             this.guna2CustomRadioButton1.ShadowDecoration.Parent = this.guna2CustomRadioButton1;
@@ -137,7 +137,7 @@ namespace HarryPotter
             this.guna2Button1.Font = new System.Drawing.Font("Monotype Corsiva", 20.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.guna2Button1.ForeColor = System.Drawing.Color.Black;
             this.guna2Button1.HoverState.Parent = this.guna2Button1;
-            this.guna2Button1.Location = new System.Drawing.Point(689, 2);
+            this.guna2Button1.Location = new System.Drawing.Point(887, 2);
             this.guna2Button1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.ShadowDecoration.Parent = this.guna2Button1;
@@ -150,7 +150,7 @@ namespace HarryPotter
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(826, 486);
+            this.ClientSize = new System.Drawing.Size(1024, 768);
             this.Controls.Add(this.tableLayoutPanel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "preview";

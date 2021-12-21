@@ -30,7 +30,7 @@ namespace HarryPotter
 
             if (vvod == otvet)
             {
-                lvl5 lvl5 = new lvl5();
+                lvl5 lvl5 = new lvl5(); 
                 lvl5.Show();
                 this.Hide();
             }

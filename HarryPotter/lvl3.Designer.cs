@@ -99,7 +99,7 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18.51852F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20.02744F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 31.55007F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1008, 729);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1024, 768);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // label1
@@ -108,7 +108,7 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label1.Location = new System.Drawing.Point(909, 0);
+            this.label1.Location = new System.Drawing.Point(925, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(96, 43);
             this.label1.TabIndex = 0;
@@ -121,7 +121,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Monotype Corsiva", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(40, 81);
+            this.label2.Location = new System.Drawing.Point(48, 88);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(928, 114);
             this.label2.TabIndex = 1;
@@ -169,14 +169,14 @@
             this.tableLayoutPanel2.Controls.Add(this.guna2Button18, 6, 3);
             this.tableLayoutPanel2.Controls.Add(this.guna2CustomRadioButton1, 7, 3);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 501);
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 527);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 4;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(1002, 225);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(1018, 238);
             this.tableLayoutPanel2.TabIndex = 2;
             // 
             // label4
@@ -184,7 +184,7 @@
             this.label4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label4.Location = new System.Drawing.Point(170, 6);
+            this.label4.Location = new System.Drawing.Point(173, 8);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(35, 43);
             this.label4.TabIndex = 1;
@@ -195,7 +195,7 @@
             this.label5.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label5.Location = new System.Drawing.Point(295, 6);
+            this.label5.Location = new System.Drawing.Point(300, 8);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(35, 43);
             this.label5.TabIndex = 2;
@@ -206,7 +206,7 @@
             this.label6.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label6.Location = new System.Drawing.Point(420, 6);
+            this.label6.Location = new System.Drawing.Point(427, 8);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(35, 43);
             this.label6.TabIndex = 3;
@@ -217,7 +217,7 @@
             this.label7.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label7.Location = new System.Drawing.Point(545, 6);
+            this.label7.Location = new System.Drawing.Point(554, 8);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(35, 43);
             this.label7.TabIndex = 4;
@@ -228,7 +228,7 @@
             this.label8.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label8.Location = new System.Drawing.Point(670, 6);
+            this.label8.Location = new System.Drawing.Point(681, 8);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(35, 43);
             this.label8.TabIndex = 5;
@@ -239,7 +239,7 @@
             this.label9.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label9.Location = new System.Drawing.Point(795, 6);
+            this.label9.Location = new System.Drawing.Point(808, 8);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(35, 43);
             this.label9.TabIndex = 6;
@@ -250,7 +250,7 @@
             this.label3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label3.Location = new System.Drawing.Point(45, 62);
+            this.label3.Location = new System.Drawing.Point(46, 67);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(35, 43);
             this.label3.TabIndex = 0;
@@ -261,7 +261,7 @@
             this.label11.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label11.Location = new System.Drawing.Point(45, 118);
+            this.label11.Location = new System.Drawing.Point(46, 126);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(35, 43);
             this.label11.TabIndex = 8;
@@ -272,7 +272,7 @@
             this.label12.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.label12.Location = new System.Drawing.Point(45, 175);
+            this.label12.Location = new System.Drawing.Point(46, 186);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(35, 43);
             this.label12.TabIndex = 9;
@@ -295,10 +295,10 @@
             this.guna2Button1.ForeColor = System.Drawing.Color.Black;
             this.guna2Button1.HoverState.Parent = this.guna2Button1;
             this.guna2Button1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.guna2Button1.Location = new System.Drawing.Point(128, 59);
+            this.guna2Button1.Location = new System.Drawing.Point(130, 62);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.ShadowDecoration.Parent = this.guna2Button1;
-            this.guna2Button1.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button1.Size = new System.Drawing.Size(121, 53);
             this.guna2Button1.TabIndex = 0;
             this.guna2Button1.Text = "А";
             this.guna2Button1.Click += new System.EventHandler(this.guna2Button1_Click);
@@ -318,10 +318,10 @@
             this.guna2Button2.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button2.ForeColor = System.Drawing.Color.Black;
             this.guna2Button2.HoverState.Parent = this.guna2Button2;
-            this.guna2Button2.Location = new System.Drawing.Point(253, 59);
+            this.guna2Button2.Location = new System.Drawing.Point(257, 62);
             this.guna2Button2.Name = "guna2Button2";
             this.guna2Button2.ShadowDecoration.Parent = this.guna2Button2;
-            this.guna2Button2.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button2.Size = new System.Drawing.Size(121, 53);
             this.guna2Button2.TabIndex = 11;
             this.guna2Button2.Text = "Д";
             this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
@@ -341,10 +341,10 @@
             this.guna2Button3.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button3.ForeColor = System.Drawing.Color.Black;
             this.guna2Button3.HoverState.Parent = this.guna2Button3;
-            this.guna2Button3.Location = new System.Drawing.Point(378, 59);
+            this.guna2Button3.Location = new System.Drawing.Point(384, 62);
             this.guna2Button3.Name = "guna2Button3";
             this.guna2Button3.ShadowDecoration.Parent = this.guna2Button3;
-            this.guna2Button3.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button3.Size = new System.Drawing.Size(121, 53);
             this.guna2Button3.TabIndex = 12;
             this.guna2Button3.Text = "К";
             this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
@@ -364,10 +364,10 @@
             this.guna2Button4.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button4.ForeColor = System.Drawing.Color.Black;
             this.guna2Button4.HoverState.Parent = this.guna2Button4;
-            this.guna2Button4.Location = new System.Drawing.Point(503, 59);
+            this.guna2Button4.Location = new System.Drawing.Point(511, 62);
             this.guna2Button4.Name = "guna2Button4";
             this.guna2Button4.ShadowDecoration.Parent = this.guna2Button4;
-            this.guna2Button4.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button4.Size = new System.Drawing.Size(121, 53);
             this.guna2Button4.TabIndex = 13;
             this.guna2Button4.Text = "Р";
             this.guna2Button4.Click += new System.EventHandler(this.guna2Button4_Click);
@@ -387,10 +387,10 @@
             this.guna2Button5.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button5.ForeColor = System.Drawing.Color.Black;
             this.guna2Button5.HoverState.Parent = this.guna2Button5;
-            this.guna2Button5.Location = new System.Drawing.Point(628, 59);
+            this.guna2Button5.Location = new System.Drawing.Point(638, 62);
             this.guna2Button5.Name = "guna2Button5";
             this.guna2Button5.ShadowDecoration.Parent = this.guna2Button5;
-            this.guna2Button5.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button5.Size = new System.Drawing.Size(121, 53);
             this.guna2Button5.TabIndex = 14;
             this.guna2Button5.Text = "Н";
             this.guna2Button5.Click += new System.EventHandler(this.guna2Button5_Click);
@@ -410,10 +410,10 @@
             this.guna2Button6.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button6.ForeColor = System.Drawing.Color.Black;
             this.guna2Button6.HoverState.Parent = this.guna2Button6;
-            this.guna2Button6.Location = new System.Drawing.Point(753, 59);
+            this.guna2Button6.Location = new System.Drawing.Point(765, 62);
             this.guna2Button6.Name = "guna2Button6";
             this.guna2Button6.ShadowDecoration.Parent = this.guna2Button6;
-            this.guna2Button6.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button6.Size = new System.Drawing.Size(121, 53);
             this.guna2Button6.TabIndex = 15;
             this.guna2Button6.Text = "Del";
             this.guna2Button6.Click += new System.EventHandler(this.guna2Button6_Click);
@@ -433,10 +433,10 @@
             this.guna2Button7.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button7.ForeColor = System.Drawing.Color.Black;
             this.guna2Button7.HoverState.Parent = this.guna2Button7;
-            this.guna2Button7.Location = new System.Drawing.Point(128, 115);
+            this.guna2Button7.Location = new System.Drawing.Point(130, 121);
             this.guna2Button7.Name = "guna2Button7";
             this.guna2Button7.ShadowDecoration.Parent = this.guna2Button7;
-            this.guna2Button7.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button7.Size = new System.Drawing.Size(121, 53);
             this.guna2Button7.TabIndex = 16;
             this.guna2Button7.Text = "О";
             this.guna2Button7.Click += new System.EventHandler(this.guna2Button7_Click);
@@ -456,10 +456,10 @@
             this.guna2Button8.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button8.ForeColor = System.Drawing.Color.Black;
             this.guna2Button8.HoverState.Parent = this.guna2Button8;
-            this.guna2Button8.Location = new System.Drawing.Point(253, 115);
+            this.guna2Button8.Location = new System.Drawing.Point(257, 121);
             this.guna2Button8.Name = "guna2Button8";
             this.guna2Button8.ShadowDecoration.Parent = this.guna2Button8;
-            this.guna2Button8.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button8.Size = new System.Drawing.Size(121, 53);
             this.guna2Button8.TabIndex = 17;
             this.guna2Button8.Text = "Л";
             this.guna2Button8.Click += new System.EventHandler(this.guna2Button8_Click);
@@ -479,10 +479,10 @@
             this.guna2Button9.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button9.ForeColor = System.Drawing.Color.Black;
             this.guna2Button9.HoverState.Parent = this.guna2Button9;
-            this.guna2Button9.Location = new System.Drawing.Point(378, 115);
+            this.guna2Button9.Location = new System.Drawing.Point(384, 121);
             this.guna2Button9.Name = "guna2Button9";
             this.guna2Button9.ShadowDecoration.Parent = this.guna2Button9;
-            this.guna2Button9.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button9.Size = new System.Drawing.Size(121, 53);
             this.guna2Button9.TabIndex = 18;
             this.guna2Button9.Text = "М";
             this.guna2Button9.Click += new System.EventHandler(this.guna2Button9_Click);
@@ -502,10 +502,10 @@
             this.guna2Button11.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button11.ForeColor = System.Drawing.Color.Black;
             this.guna2Button11.HoverState.Parent = this.guna2Button11;
-            this.guna2Button11.Location = new System.Drawing.Point(628, 115);
+            this.guna2Button11.Location = new System.Drawing.Point(638, 121);
             this.guna2Button11.Name = "guna2Button11";
             this.guna2Button11.ShadowDecoration.Parent = this.guna2Button11;
-            this.guna2Button11.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button11.Size = new System.Drawing.Size(121, 53);
             this.guna2Button11.TabIndex = 20;
             this.guna2Button11.Text = "Ф";
             this.guna2Button11.Click += new System.EventHandler(this.guna2Button11_Click);
@@ -525,10 +525,10 @@
             this.guna2Button10.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button10.ForeColor = System.Drawing.Color.Black;
             this.guna2Button10.HoverState.Parent = this.guna2Button10;
-            this.guna2Button10.Location = new System.Drawing.Point(503, 115);
+            this.guna2Button10.Location = new System.Drawing.Point(511, 121);
             this.guna2Button10.Name = "guna2Button10";
             this.guna2Button10.ShadowDecoration.Parent = this.guna2Button10;
-            this.guna2Button10.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button10.Size = new System.Drawing.Size(121, 53);
             this.guna2Button10.TabIndex = 21;
             this.guna2Button10.Text = "Й";
             this.guna2Button10.Click += new System.EventHandler(this.guna2Button10_Click);
@@ -548,10 +548,10 @@
             this.guna2Button12.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button12.ForeColor = System.Drawing.Color.Black;
             this.guna2Button12.HoverState.Parent = this.guna2Button12;
-            this.guna2Button12.Location = new System.Drawing.Point(753, 115);
+            this.guna2Button12.Location = new System.Drawing.Point(765, 121);
             this.guna2Button12.Name = "guna2Button12";
             this.guna2Button12.ShadowDecoration.Parent = this.guna2Button12;
-            this.guna2Button12.Size = new System.Drawing.Size(119, 50);
+            this.guna2Button12.Size = new System.Drawing.Size(121, 53);
             this.guna2Button12.TabIndex = 22;
             this.guna2Button12.Text = "!";
             this.guna2Button12.Click += new System.EventHandler(this.guna2Button12_Click);
@@ -571,10 +571,10 @@
             this.guna2Button13.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button13.ForeColor = System.Drawing.Color.Black;
             this.guna2Button13.HoverState.Parent = this.guna2Button13;
-            this.guna2Button13.Location = new System.Drawing.Point(128, 171);
+            this.guna2Button13.Location = new System.Drawing.Point(130, 180);
             this.guna2Button13.Name = "guna2Button13";
             this.guna2Button13.ShadowDecoration.Parent = this.guna2Button13;
-            this.guna2Button13.Size = new System.Drawing.Size(119, 51);
+            this.guna2Button13.Size = new System.Drawing.Size(121, 55);
             this.guna2Button13.TabIndex = 23;
             this.guna2Button13.Text = "И";
             this.guna2Button13.Click += new System.EventHandler(this.guna2Button13_Click);
@@ -594,10 +594,10 @@
             this.guna2Button14.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button14.ForeColor = System.Drawing.Color.Black;
             this.guna2Button14.HoverState.Parent = this.guna2Button14;
-            this.guna2Button14.Location = new System.Drawing.Point(253, 171);
+            this.guna2Button14.Location = new System.Drawing.Point(257, 180);
             this.guna2Button14.Name = "guna2Button14";
             this.guna2Button14.ShadowDecoration.Parent = this.guna2Button14;
-            this.guna2Button14.Size = new System.Drawing.Size(119, 51);
+            this.guna2Button14.Size = new System.Drawing.Size(121, 55);
             this.guna2Button14.TabIndex = 24;
             this.guna2Button14.Text = "В";
             this.guna2Button14.Click += new System.EventHandler(this.guna2Button14_Click);
@@ -617,10 +617,10 @@
             this.guna2Button15.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button15.ForeColor = System.Drawing.Color.Black;
             this.guna2Button15.HoverState.Parent = this.guna2Button15;
-            this.guna2Button15.Location = new System.Drawing.Point(378, 171);
+            this.guna2Button15.Location = new System.Drawing.Point(384, 180);
             this.guna2Button15.Name = "guna2Button15";
             this.guna2Button15.ShadowDecoration.Parent = this.guna2Button15;
-            this.guna2Button15.Size = new System.Drawing.Size(119, 51);
+            this.guna2Button15.Size = new System.Drawing.Size(121, 55);
             this.guna2Button15.TabIndex = 25;
             this.guna2Button15.Text = "-";
             this.guna2Button15.Click += new System.EventHandler(this.guna2Button15_Click);
@@ -640,10 +640,10 @@
             this.guna2Button16.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button16.ForeColor = System.Drawing.Color.Black;
             this.guna2Button16.HoverState.Parent = this.guna2Button16;
-            this.guna2Button16.Location = new System.Drawing.Point(503, 171);
+            this.guna2Button16.Location = new System.Drawing.Point(511, 180);
             this.guna2Button16.Name = "guna2Button16";
             this.guna2Button16.ShadowDecoration.Parent = this.guna2Button16;
-            this.guna2Button16.Size = new System.Drawing.Size(119, 51);
+            this.guna2Button16.Size = new System.Drawing.Size(121, 55);
             this.guna2Button16.TabIndex = 26;
             this.guna2Button16.Text = "Ы";
             this.guna2Button16.Click += new System.EventHandler(this.guna2Button16_Click);
@@ -663,10 +663,10 @@
             this.guna2Button17.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button17.ForeColor = System.Drawing.Color.Black;
             this.guna2Button17.HoverState.Parent = this.guna2Button17;
-            this.guna2Button17.Location = new System.Drawing.Point(628, 171);
+            this.guna2Button17.Location = new System.Drawing.Point(638, 180);
             this.guna2Button17.Name = "guna2Button17";
             this.guna2Button17.ShadowDecoration.Parent = this.guna2Button17;
-            this.guna2Button17.Size = new System.Drawing.Size(119, 51);
+            this.guna2Button17.Size = new System.Drawing.Size(121, 55);
             this.guna2Button17.TabIndex = 27;
             this.guna2Button17.Text = "С";
             this.guna2Button17.Click += new System.EventHandler(this.guna2Button17_Click);
@@ -686,10 +686,10 @@
             this.guna2Button18.Font = new System.Drawing.Font("Monotype Corsiva", 26.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.guna2Button18.ForeColor = System.Drawing.Color.Black;
             this.guna2Button18.HoverState.Parent = this.guna2Button18;
-            this.guna2Button18.Location = new System.Drawing.Point(753, 171);
+            this.guna2Button18.Location = new System.Drawing.Point(765, 180);
             this.guna2Button18.Name = "guna2Button18";
             this.guna2Button18.ShadowDecoration.Parent = this.guna2Button18;
-            this.guna2Button18.Size = new System.Drawing.Size(119, 51);
+            this.guna2Button18.Size = new System.Drawing.Size(121, 55);
             this.guna2Button18.TabIndex = 28;
             this.guna2Button18.Click += new System.EventHandler(this.guna2Button18_Click);
             // 
@@ -703,10 +703,10 @@
             this.guna2CustomRadioButton1.CheckedState.InnerColor = System.Drawing.Color.Transparent;
             this.guna2CustomRadioButton1.CheckedState.Parent = this.guna2CustomRadioButton1;
             this.guna2CustomRadioButton1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.guna2CustomRadioButton1.Location = new System.Drawing.Point(878, 171);
+            this.guna2CustomRadioButton1.Location = new System.Drawing.Point(892, 180);
             this.guna2CustomRadioButton1.Name = "guna2CustomRadioButton1";
             this.guna2CustomRadioButton1.ShadowDecoration.Parent = this.guna2CustomRadioButton1;
-            this.guna2CustomRadioButton1.Size = new System.Drawing.Size(121, 51);
+            this.guna2CustomRadioButton1.Size = new System.Drawing.Size(123, 55);
             this.guna2CustomRadioButton1.TabIndex = 29;
             this.guna2CustomRadioButton1.Text = "guna2CustomRadioButton1";
             this.guna2CustomRadioButton1.UncheckedState.BorderColor = System.Drawing.Color.Black;
@@ -734,7 +734,7 @@
             this.guna2TextBox1.ForeColor = System.Drawing.Color.Black;
             this.guna2TextBox1.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.guna2TextBox1.HoverState.Parent = this.guna2TextBox1;
-            this.guna2TextBox1.Location = new System.Drawing.Point(233, 388);
+            this.guna2TextBox1.Location = new System.Drawing.Point(241, 410);
             this.guna2TextBox1.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.guna2TextBox1.Name = "guna2TextBox1";
             this.guna2TextBox1.PasswordChar = '\0';
@@ -774,7 +774,7 @@
             this.tableLayoutPanel3.Controls.Add(this.label22, 4, 1);
             this.tableLayoutPanel3.Controls.Add(this.label23, 5, 1);
             this.tableLayoutPanel3.Controls.Add(this.label13, 1, 0);
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(188, 234);
+            this.tableLayoutPanel3.Location = new System.Drawing.Point(196, 249);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 2;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -918,7 +918,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1008, 729);
+            this.ClientSize = new System.Drawing.Size(1024, 768);
             this.Controls.Add(this.tableLayoutPanel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "lvl3";

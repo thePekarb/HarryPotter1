@@ -371,6 +371,7 @@ namespace HarryPotter
             ToolTip t = new ToolTip();
             t.SetToolTip(guna2CustomRadioButton1, "Вперёд");
             t.SetToolTip(label1, "Выход");
+            t.SetToolTip(guna2CustomRadioButton1, "Проверка");
             this.TopMost = true;
         }
     }

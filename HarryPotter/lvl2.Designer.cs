@@ -258,12 +258,12 @@
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Monotype Corsiva", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(4, 27);
+            this.label1.Font = new System.Drawing.Font("Monotype Corsiva", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.Location = new System.Drawing.Point(49, 47);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1000, 85);
+            this.label1.Size = new System.Drawing.Size(910, 45);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Помогите Гермионе восстановить алгоритм варки зелья";
+            this.label1.Text = "Помогите Гермионе восстановить алгоритм варения зелья";
             // 
             // label4
             // 

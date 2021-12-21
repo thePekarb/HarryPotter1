@@ -121,5 +121,13 @@ namespace HarryPotter
         {
             Application.Exit();
         }
+
+        private void lvl6_Load(object sender, EventArgs e)
+        {
+            ToolTip t = new ToolTip();
+            t.SetToolTip(guna2Button1, "Вперёд");
+            t.SetToolTip(label14, "Выход");
+            this.TopMost = true;
+        }
     }
 }

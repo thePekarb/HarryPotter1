@@ -28,7 +28,10 @@ namespace HarryPotter
 
         private void lvl3_Load(object sender, EventArgs e)
         {
-          
+            ToolTip t = new ToolTip();
+            t.SetToolTip(guna2CustomRadioButton1, "Вперёд");
+            t.SetToolTip(label1, "Выход");
+            this.TopMost = true;
         }
 
         private void guna2Button2_Click(object sender, EventArgs e)

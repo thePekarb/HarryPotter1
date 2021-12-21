@@ -28,5 +28,13 @@ namespace HarryPotter
         {
             Application.Exit();
         }
+
+        private void preview_Load(object sender, EventArgs e)
+        {
+            ToolTip t = new ToolTip();
+            t.SetToolTip(guna2CustomRadioButton1, "Вперёд");
+            t.SetToolTip(guna2Button1, "Выход");
+            this.TopMost = true;
+        }
     }
 }

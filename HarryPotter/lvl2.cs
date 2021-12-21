@@ -58,6 +58,10 @@ namespace HarryPotter
             ((Control)pictureBox4).AllowDrop = true;
             ((Control)pictureBox6).AllowDrop = true;
             ((Control)pictureBox8).AllowDrop = true;
+            ToolTip t = new ToolTip();
+            t.SetToolTip(guna2CustomRadioButton1, "Вперёд");
+            t.SetToolTip(label4, "Выход");
+            this.TopMost = true;
         }
 
         private void pictureBox3_MouseMove(object sender, MouseEventArgs e)

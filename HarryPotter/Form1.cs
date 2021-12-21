@@ -24,6 +24,8 @@ namespace HarryPotter
         {
             ToolTip t = new ToolTip();
             t.SetToolTip(guna2Button2, "Вперёд");
+            t.SetToolTip(guna2Button1, "Выход");
+            this.TopMost = true;
         }
 
         private void guna2Button1_Click(object sender, EventArgs e)

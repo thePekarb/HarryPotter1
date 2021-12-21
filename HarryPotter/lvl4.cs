@@ -45,5 +45,13 @@ namespace HarryPotter
             }
 
         }
+
+        private void lvl4_Load(object sender, EventArgs e)
+        {
+            ToolTip t = new ToolTip();
+            t.SetToolTip(button1, "Вперёд");
+            t.SetToolTip(label1, "Выход");
+            this.TopMost = true;
+        }
     }
 }

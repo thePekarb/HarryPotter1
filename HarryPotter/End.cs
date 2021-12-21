@@ -39,6 +39,11 @@ namespace HarryPotter
             lvl1 lvl1 = new lvl1();
 
             label2.Text = lvl1.score.ToString();
+
+            ToolTip t = new ToolTip();
+            t.SetToolTip(guna2Button1, "Вперёд");
+            t.SetToolTip(label4, "Выход");
+            this.TopMost = true;
         }
     }
 }
